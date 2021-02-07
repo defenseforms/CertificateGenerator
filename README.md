@@ -1,6 +1,7 @@
-# VBA Project: CertificateGenerator
+# CertificateGenerator
+
 This repo (CertificateGenerator) was automatically created on 8/14/2020 8:32:46 PM by VBADeveloper.
 
 **CertificateGenerator - A VBA application for batch creation of certificates.**
 
-Now update manually with details of this project - this skeleton file is committed only when there is no README.md in the repo.
+CertificateGenerator uses Microsoft Excel to create a batch list of students that can then be used to generate certificates. The certificates are generated automatically using the application code written in Visual Basic for Applications. When it is run a PowerPoint presentation is created from the template file and each student has certificate generated as a separate slide in the presentation.
