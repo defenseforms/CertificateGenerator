@@ -1,0 +1,8 @@
+{
+  "name": "CertificateGenerator",
+  "description": "A VBA application for batch creation of certificates.",
+  "author": "defenseforms",
+  "email": "admin@defenseforms.com",
+  "license": "GNU GPL 3",
+  "version": "1.0.0"
+}
